@@ -1,0 +1,141 @@
+body{
+    background-color:white;
+  }
+  .header{
+    background-color:white;
+    font-family: 'Sofia';
+    border-radius: 0.5rem;
+  
+  }
+  .product_font{
+    font-family: 'Amita';
+  
+  }
+  
+  
+  .product_img{
+    /* background-color:; */
+    border-radius: 1.0rem;
+  }
+  
+  .cart{
+    border-radius: 1.5rem;
+    background-color:white;
+    padding: 1rem;
+    float: left;
+    margin: 2rem;
+    height: auto;
+  
+  }
+  
+  .ul {
+    list-style-type: square;
+    
+  } 
+  
+  li {
+    display: inline-block;
+    
+     margin-right: 1rem; 
+  } 
+  
+  ul li {
+    color:white;
+    font-family: monospace;
+    /* margin-top: 1rem; */
+    font-weight: 600;
+    font-size: medium;
+  }
+  
+  
+  .bg {
+    width: .5rem;
+    height: 1rem;
+    text-align: center;
+    padding: 1px;
+    margin-right: 1.5rem;
+    /* transition: 0.2s all ease; */
+    border-radius: 50%;
+  }
+  
+  .bg:hover {
+    background-color: #ff6d39;
+    border-radius: 1.5rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    cursor: pointer;
+  }
+  
+  .yellow{
+    content: "";
+    width: 10px;
+    height: 10px;
+    background-color: burlywood;
+    border-radius: 50%;
+    border: .3rem solid rgba(0, 0, 0, 0);
+    transition: 0.2s all ease;
+  }
+  
+  .black {
+    content: "";
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    border-radius: 50%;
+    border: .3rem solid rgba(0, 0, 0, 0);
+    transition: 0.2s all ease;
+  }
+  
+  .blue {
+    content: "";
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    border-radius: 50%;
+    border: .3rem solid rgba(0, 0, 0, 0);
+    transition: 0.2s all ease;
+  }
+  
+  .yellow:hover,
+  .black:hover,
+  .blue:hover {
+    border: 1rem solid #f76b39;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 1.5rem;
+    cursor: pointer;
+  }
+  
+  .button{
+    background-origin: content-box;
+    text-align: center;
+    font-size: 2rem;
+    cursor: pointer;
+    background-color: black;
+    font-weight: bolder;
+    color : whitesmoke;
+    border-radius: 1rem;
+    box-sizing: border-box;
+    
+  
+  }
+  
+  .button:hover{
+    transform: scale(1.50,1.50);
+    
+  }
+  /* Footer{
+    bottom: 0;
+    font-size: 1rem;
+  
+    background-color: lightgreen;
+  } */
+  
+  
+  
+  
+  
+  
+  
+  
+  
