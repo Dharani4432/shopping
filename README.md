@@ -31,3 +31,15 @@ The development server opens the app at [http://localhost:3000](http://localhost
 - `npm start` — start the development server.
 - `npm test` — run tests in interactive watch mode.
 - `npm run build` — create an optimized production build in `build/`.
+
+
+
+## Screenshots
+
+### Product listing
+<img width="1920" height="1080" alt="Screenshot (482)" src="https://github.com/user-attachments/assets/74227652-c9c6-4a9e-a3f8-23a0f334df92" />
+
+
+### Shopping cart
+<img width="1920" height="1080" alt="Screenshot (483)" src="https://github.com/user-attachments/assets/b1f87a5b-f831-4a7f-8b66-5da8dc08f694" />
+
