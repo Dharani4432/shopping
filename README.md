@@ -1,14 +1,33 @@
-# Getting Started with Create React App
+# Shopping App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React storefront demo for browsing footwear products and managing a shopping cart.
+
+## Features
+
+- Browse products with images, prices, categories, and ratings.
+- Select a size and color before adding a product to the cart.
+- View the cart item count and total price.
+- Remove individual items from the cart.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm
+
+### Install and run
+
+From the project directory, run:
+
+```bash
+npm install
+npm start
+```
+
+The development server opens the app at [http://localhost:3000](http://localhost:3000).
 
 ## Available Scripts
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-
+- `npm start` — start the development server.
+- `npm test` — run tests in interactive watch mode.
+- `npm run build` — create an optimized production build in `build/`.
